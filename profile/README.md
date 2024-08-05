@@ -1,8 +1,8 @@
-# Composable Prompts
+# Composable
 
 ## Bring the power of LLMs to your applications
 
-Composable Prompts facilitates rapid API development atop LLMs to power applications. Bring composition, templating, testing, caching, and visibility to the world of LLMs.
+Composable facilitates rapid API development atop LLMs to power applications. Bring composition, templating, testing, caching, and visibility to the world of LLMs.
 
 As a first step we're solving those key pain points for all developers integrating generative AI into their applications:
 
@@ -21,7 +21,7 @@ While LLMs like GPT have fundamentally changed our interaction with textual data
 
 ## What We Do
 
-We've built the [API Studio for LLMs](https://docs.composableprompts.com/), a comprehensive toolkit for designing, deploying, and operating business-specific APIs. Our suite offers a structured, domain-specific approach, shifting from rudimentary, text-based interactions to a world of structured, efficient, and integrated content processing.
+We've built the [API Studio for LLMs](https://docs.becomposable.com/), a comprehensive toolkit for designing, deploying, and operating business-specific APIs. Our suite offers a structured, domain-specific approach, shifting from rudimentary, text-based interactions to a world of structured, efficient, and integrated content processing.
 
 Our Core Offerings:
 
@@ -42,8 +42,8 @@ Our Core Offerings:
 
 ## Learn more
 
-- [Composable Prompts's website](https://composableprompts.com/)
+- [Composable Prompts's website](https://becomposable.com/)
 
-- [Documentation Website](https://docs.composableprompts.com/)
+- [Documentation Website](https://docs.becomposable.com/)
 
-- [GitHub Repository](https://github.com/dengenlabs)
+- [GitHub Repository](https://github.com/becomposable/)
