@@ -1,4 +1,4 @@
-# Composable
+# Be Composable
 
 ## Bring the power of LLMs to your applications
 
@@ -42,7 +42,7 @@ Our Core Offerings:
 
 ## Learn more
 
-- [Composable Prompts's website](https://becomposable.com/)
+- [Composable Website](https://becomposable.com/)
 
 - [Documentation Website](https://docs.becomposable.com/)
 
