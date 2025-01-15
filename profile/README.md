@@ -1,8 +1,8 @@
-# Be Composable
+# Vertesia
 
 ## Bring the power of LLMs to your applications
 
-Composable facilitates rapid API development atop LLMs to power applications. Bring composition, templating, testing, caching, and visibility to the world of LLMs.
+Vertesia facilitates rapid API development atop LLMs to power applications. Bring composition, templating, testing, caching, and visibility to the world of LLMs.
 
 As a first step we're solving those key pain points for all developers integrating generative AI into their applications:
 
@@ -21,7 +21,7 @@ While LLMs like GPT have fundamentally changed our interaction with textual data
 
 ## What We Do
 
-We've built the [API Studio for LLMs](https://docs.becomposable.com/), a comprehensive toolkit for designing, deploying, and operating business-specific APIs. Our suite offers a structured, domain-specific approach, shifting from rudimentary, text-based interactions to a world of structured, efficient, and integrated content processing.
+We've built the [API Studio for LLMs](https://docs.vertesiahq.com/), a comprehensive toolkit for designing, deploying, and operating business-specific APIs. Our suite offers a structured, domain-specific approach, shifting from rudimentary, text-based interactions to a world of structured, efficient, and integrated content processing.
 
 Our Core Offerings:
 
@@ -42,8 +42,6 @@ Our Core Offerings:
 
 ## Learn more
 
-- [Composable Website](https://becomposable.com/)
-
-- [Documentation Website](https://docs.becomposable.com/)
-
-- [GitHub Repository](https://github.com/becomposable/)
+- [Vertesia Website](https://vertesiahq.com/)
+- [Documentation Website](https://docs.vertesiahq.com/)
+- [GitHub Repository](https://github.com/vertesia/)
